@@ -1,3 +1,18 @@
+// CSS RESET
+  // cara pertama
+  * {
+    padding: 0;
+    margin: 0;
+  }
+  
+  // cara kedua
+  css reset ->  https://meyerweb.com/eric/tools/css/reset/
+  
+  
+  
+  
+
+
 // Mengganti user.email"..." dan user.name"paozanwa22"
 Control Panel\User Accounts\Credential Manager
 
