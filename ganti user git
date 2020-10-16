@@ -11,6 +11,23 @@
   
   
   
+// Structure HTML
+header
+  nav
+
+main
+  div id=containd
+    article
+    article
+  aside
+  
+footer
+  
+  
+  
+  
+  
+  
 
 
 // Mengganti user.email"..." dan user.name"paozanwa22"
