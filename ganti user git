@@ -12,16 +12,19 @@
   
   
 // Structure HTML
-header
-  nav
+    <header>
+        <nav></nav>
+    </header>
 
-main
-  div id=containd
-    article
-    article
-  aside
-  
-footer
+    <main>
+        <div id="container">
+            <article></article>
+            <article></article>
+        </div>
+        <aside></aside>
+    </main>
+
+    <footer></footer>
   
   
   
