@@ -1,36 +1,4 @@
-// CSS RESET
-  // cara pertama
-  * {
-    padding: 0;
-    margin: 0;
-  }
-  
-  // cara kedua
-  css reset ->  https://meyerweb.com/eric/tools/css/reset/
-  
-  
-  
-  
-// Structure HTML
-    <header>
-        <nav></nav>
-    </header>
 
-    <main>
-        <div id="container">
-            <article></article>
-            <article></article>
-        </div>
-        <aside></aside>
-    </main>
-
-    <footer></footer>
-  
-  
-  
-  
-  
-  
 
 
 // Mengganti user.email"..." dan user.name"paozanwa22"
